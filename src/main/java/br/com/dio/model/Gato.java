@@ -54,7 +54,7 @@ public class Gato {
     public int hashCode() {
         return Objects.hash(nome, cor, idade);
     }
-
+//
     @Override
     public String toString() {
         return "Gato{" +

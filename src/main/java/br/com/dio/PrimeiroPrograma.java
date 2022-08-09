@@ -12,7 +12,8 @@ public class PrimeiroPrograma {
         /*vou na aba VCS do inteliJ, selecione a opção enable version control integration e selecione Git,
         * vai de novo em VCS que a pós o repositório criado nome pode mudar para Git, e vocẽ pode selecionar a opção commit ou
         * pressionar ctrl + K.
-        * E na parte de commit message coloque a mensagem do seu commit, e clique em Commit and Push*/
+        * E na parte de commit message coloque a mensagem do seu commit,
+        * e clique em Commit and Push*/
 
         //Para refatorar o código, colocá-lo na indentação correta pressione ctrl + Alt + L
         //Para apagar a linha usamos ctrl + Y
